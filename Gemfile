@@ -6,5 +6,6 @@ gem 'shotgun'
 
 gem 'rspec'
 gem 'capybara'
+#gem 'pry'
 
 gem 'learn-co'
